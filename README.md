@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Pricing Hub Prices | POST Get Prices, PUT Configure External Price Source |
+| Pricing Hub Prices | Post get prices, Put configure external price source |
 
 ---
 

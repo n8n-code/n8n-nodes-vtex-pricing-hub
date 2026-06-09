@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-vtex-pricing-hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> This feature is in closed beta, available only for selected customers. If you have any questions, contact our Support",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-vtex-pricing-hub",
